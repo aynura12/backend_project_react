@@ -1,0 +1,37 @@
+.container {
+    padding: 20px 20px;
+  width: 80%;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 40px;
+}
+.mycard {
+    padding: 10PX 10PX ;
+    background-color: rgba(245, 245, 220, 0.856);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 10px;
+}
+.mycard img {
+  border-radius: 10px;
+  width: 250px;
+  height: 220px;
+}
+.mycard h4 {
+  text-align: center;
+}
+.mycard p {
+  text-align: center;
+}
+.mycard button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
