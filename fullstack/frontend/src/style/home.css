@@ -13,8 +13,8 @@
 }
 .mycard img {
   border-radius: 10px;
-  width: 250px;
-  height: 220px;
+  width: 300px;
+  height: 200px;
 }
 .mycard h4 {
   text-align: center;
@@ -32,6 +32,6 @@
     padding: 20px 20px;
     background-color: black;
     color: white;
-  margin-left: 60px;
+  margin-left: 80px;
   margin-bottom: 30px;
 }
